@@ -1,0 +1,63 @@
+html
+{
+    scroll-behavior: smooth;
+}
+#navbarSupportedContent
+{
+    justify-content:end;
+
+}
+.s1
+{
+    width: 100%;
+    height:100%;
+}
+#s0
+{
+    width:10%;
+    height:10%;
+}
+.d-block
+{
+    height:80%;
+    width:30%;
+}
+.carousel-caption
+{
+    color:goldenrod;
+}
+.text
+{
+  background-image: url(resort.jpg);
+  background-size: 100%;
+  height: 100%;
+  width:100%;
+  color:goldenrod;
+  font-size: 150%;
+  padding-inline-start: 30%;
+  padding-top: 10%;
+  padding-right: 30%;
+}
+.card-img-top
+{
+    height: 40%;
+    width:40%;
+    margin:20%;
+}
+
+.card
+{
+    margin-left: 19%;
+    margin-bottom: 10%;
+    
+    
+}
+h3
+{
+    margin-left: 45%;
+}
+.book
+{
+    background-color: goldenrod;
+}
+
